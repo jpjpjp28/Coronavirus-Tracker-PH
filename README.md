@@ -1,15 +1,20 @@
 # Coronavirus Tracker (PH) #
-[![license](https://img.shields.io/badge/Download-v1.1.0-blue.svg?style=flat-square)](https://raw.githubusercontent.com/jpjpjp28/Files/master/coronavirus_tracker_ph/apk/Coronavirus_Tracker_PH_20200331.apk)
 [![license](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat-square)]()
 [![license](https://img.shields.io/badge/platform-Android-green.svg?style=flat-square)]()
-[![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](README.md)
+[![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://raw.githubusercontent.com/jpjpjp28/Coronavirus-Tracker-PH/master/LICENSE)
 [![license](https://img.shields.io/badge/author-John%20Paul%20Custodio-orange.svg?style=flat-square)]()
 
+<p align="center">
 An app for tracking the Novel Coronavirus (COVID-19, SARS-CoV-2) outbreak in the Philippines.
+</p>
 
 <p align="center">
 <img src="images/feature_graphic.jpg" width="768"/>
 </p>
+
+## Download / Visit Website ##
+[![license](https://img.shields.io/badge/Download-v1.2.0-blue.svg?style=flat-square)](https://github.com/jpjpjp28/Coronavirus-Tracker-PH/blob/master/apk/Coronavirus_Tracker_PH_v1.2.0_20200415.apk)
+[![website](https://img.shields.io/badge/link-Website-green.svg?style=flat-square)](https://jpjpjp28.github.io/Coronavirus-Tracker-PH/)
 
 ## Features ##
 * Current data: Shows the most recent data. (Regularly updating)
@@ -66,7 +71,7 @@ Coronavirus Tracker (PH) is based on Kotlin MVVM clean architecture design patte
 
 # Support #
 
-If you feel like sponsoring me a cup of coffee for my efforts, I would greatly appreciate it.
+If you feel like sponsoring me a coffee for my efforts, I would greatly appreciate it.
 
 <a href="https://www.buymeacoffee.com/jpjpjp28" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
