@@ -13,7 +13,7 @@ An app for tracking the Novel Coronavirus (COVID-19, SARS-CoV-2) outbreak in the
 </p>
 
 ## Download / Visit Website ##
-[![license](https://img.shields.io/badge/Download-v1.2.0-blue.svg?style=flat-square)](https://github.com/jpjpjp28/Coronavirus-Tracker-PH/blob/master/apk/Coronavirus_Tracker_PH_v1.2.0_20200415.apk)
+[![license](https://img.shields.io/badge/Download-v1.2.0-blue.svg?style=flat-square)](https://github.com/jpjpjp28/Coronavirus-Tracker-PH/raw/master/apk/Coronavirus_Tracker_PH_v1.2.0_20200415.apk)
 [![website](https://img.shields.io/badge/link-Website-green.svg?style=flat-square)](https://jpjpjp28.github.io/Coronavirus-Tracker-PH/)
 
 ## Features ##
