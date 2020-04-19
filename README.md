@@ -1,8 +1,8 @@
 # Coronavirus Tracker (PH) #
-[![license](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat-square)]()
-[![license](https://img.shields.io/badge/platform-Android-green.svg?style=flat-square)]()
+[![apilevel](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat-square)]()
+[![platform](https://img.shields.io/badge/platform-Android-green.svg?style=flat-square)]()
 [![license](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://raw.githubusercontent.com/jpjpjp28/Coronavirus-Tracker-PH/master/LICENSE)
-[![license](https://img.shields.io/badge/author-John%20Paul%20Custodio-orange.svg?style=flat-square)]()
+[![author](https://img.shields.io/badge/author-John%20Paul%20Custodio-orange.svg?style=flat-square)]()
 
 <p align="center">
 An app for tracking the Novel Coronavirus (COVID-19, SARS-CoV-2) outbreak in the Philippines.
@@ -13,7 +13,7 @@ An app for tracking the Novel Coronavirus (COVID-19, SARS-CoV-2) outbreak in the
 </p>
 
 ## Download / Visit Website ##
-[![license](https://img.shields.io/badge/Download-v1.2.0-blue.svg?style=flat-square)](https://github.com/jpjpjp28/Coronavirus-Tracker-PH/raw/master/apk/Coronavirus_Tracker_PH_v1.2.0_20200415.apk)
+[![download](https://img.shields.io/badge/Download-v1.3.0-blue.svg?style=flat-square)](https://github.com/jpjpjp28/Coronavirus-Tracker-PH/raw/master/apk/Coronavirus_Tracker_PH_v1.3.0_20200419.apk)
 [![website](https://img.shields.io/badge/link-Website-green.svg?style=flat-square)](https://jpjpjp28.github.io/Coronavirus-Tracker-PH/)
 
 ## Features ##
@@ -56,7 +56,7 @@ Coronavirus Tracker (PH) is based on Kotlin MVVM clean architecture design patte
 * Minimum SDK 16
 * 100% Kotlin based
 * MVVM Architecture
-* Architecture Components (Lifecycle, LiveData, ViewModel)
+* Android Architecture Components (Lifecycle, LiveData, ViewModel)
 * Kotlin Coroutines
 * DataBinding
 * Material Design & Animations
