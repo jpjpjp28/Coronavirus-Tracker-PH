@@ -13,7 +13,7 @@ An app for tracking the Novel Coronavirus (COVID-19, SARS-CoV-2) outbreak in the
 </p>
 
 ## Download / Visit Website ##
-[![download](https://img.shields.io/badge/Download-v1.3.0-blue.svg?style=flat-square)](https://github.com/jpjpjp28/Coronavirus-Tracker-PH/raw/master/apk/Coronavirus_Tracker_PH_v1.3.0_20200419.apk)
+[![download](https://img.shields.io/badge/Download-v1.4.1-blue.svg?style=flat-square)](https://github.com/jpjpjp28/Coronavirus-Tracker-PH/raw/master/apk/Coronavirus_Tracker_PH_v1.4.1_20200430.apk)
 [![website](https://img.shields.io/badge/link-Website-green.svg?style=flat-square)](https://jpjpjp28.github.io/Coronavirus-Tracker-PH/)
 
 ## Features ##
@@ -22,6 +22,7 @@ An app for tracking the Novel Coronavirus (COVID-19, SARS-CoV-2) outbreak in the
   - Line Chart for the number of confirmed, recovered and deaths
   - Bar Chart for the percentage of confirmed based on Age
   - Pie Chart for the percentage of confirmed based on gender
+* DOH Data Drop: Shows all the DOH Data Drop cases and its information.
 * Philippine Cases: Shows all the case confirmed by DOH and its information.
 * Test Results: Shows the summary by test results of confirmed cases, cases tested negative and cases pending test results.
 * Global Cases: Show all the total cases around the world
@@ -47,7 +48,8 @@ An app for tracking the Novel Coronavirus (COVID-19, SARS-CoV-2) outbreak in the
 * [Johns Hopkins University CSSE](https://github.com/CSSEGISandData/COVID-19)
 * [WHO (World Health Organization)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
 * [coronavirus-ph (API)](https://coronavirus-ph-api.herokuapp.com) by Robert C Soriano
-* [Cases from r/Coronavirus_PH spreadsheet](https://www.reddit.com/r/Coronavirus_PH/comments/fehzke/ph_covid19_case_database_is_now_live/)
+* [COVID-19 Philippines Google Sheets](http://tiny.cc/n8nsmz)
+* [ncov-ph-data](https://github.com/gigerbytes/ncov-ph-data)
 * [Metro Manila community quarantine checkpoints](https://safetravel.ph/)
 * [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Philippines)
 
